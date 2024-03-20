@@ -5,6 +5,8 @@ import java.sql.Statement;
 
 // Tolo
 // Tolo 20/03/24
+//Jordi Tomé Mateo
+//20/3/2024
 public class BaseConnectExample {
     public static void main(String[] args) {
         Connection conn = null;
